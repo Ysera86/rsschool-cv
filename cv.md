@@ -1,11 +1,12 @@
 # Merve UĞURSAÇ
+
 ## Contact Info
 - merve.ugursac34@gmail.com
 - +905073607490
 - [Linkedin](https://www.linkedin.com/in/merve-u%C4%9Fursa%C3%A7/)
 
- ## Who I am ?
- I am a .NET developer (C# .NET, MsSQL) with experience of working on a variety of windows and web
+## Who I am ?
+I am a .NET developer (C# .NET, MsSQL) with experience of working on a variety of windows and web
 development projects. I work on all aspects of the development life cycle, applying my knowledge of OOP C#
 principles. My work includes building user-focused, dynamic, innovative and functional cloud based project using
 responsive / adaptive design and development. I have been also building custom modules on Genesys SDK lately
@@ -25,8 +26,8 @@ pace to handle the volume of queries for the client.
 ## Key Skills
 
 - C#,  ASP .NET, MsSQL
--  .NET Core
--  MVC, WebAPI
+- .NET Core
+- MVC, WebAPI
 - Entity Framework, ADO .NET
 - Genesys SDK
 - DevExpress XAF
