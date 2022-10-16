@@ -2,38 +2,68 @@
     margin: 0;
     padding: 0;
     font-family: 'Lora', serif;
-    /* font-weight: 800; */
+    line-height: 25px;
 }
 
 body{
     background-color: rgba(61, 61, 61, 0.5);
 }
 
-.body{
+.page-content{
     background-color: white;
     width: 1000px;
-    height: 1260px;
+    height: auto;
     margin: 0 auto ;
     padding: 10px;
-    top: 0;
+    /* top: 0; */
+}
+
+nav{
+    background-color: rgba(71, 71, 71, 0.5);
+    border-radius: 10px;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 5px 10px;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+   text-shadow: 2px 2px 5px white;
+}
+nav a:visited{
+    text-decoration: none;
+    color: white;
 }
 
 main{
-    
+
 }
 
 .personal-photo{
     display: block;
     width: 200px;
     float:right;
-    margin: 5px;
-    margin-right: 50px;
+    margin: 60px 50px 5px 5px;
     padding: 2px;
     border-radius: 50%;
+}
+.contact-info{
+    margin-top: 60px;
 }
 
 h1,h2,h3,p,ul{
     margin: 10px 25px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-top: 20px;
 }
 h5{
     margin: 4px 25px;
@@ -41,20 +71,55 @@ h5{
 header h1{
     margin-top: 15px;
 }
+.sub-header{
+}
+
+.projects li{
+    list-style: none;
+}
+.projects a{
+ text-decoration: none;
+ color: black;
+}
+.projects a:hover{
+   text-shadow: 2px 2px 5px;
+}
+.projects a:visited{
+    color: black;
+}
+
+.main-skills li{
+    list-style-type: square;
+}
+
+.language li{
+    list-style: none;
+}
+.language img{
+    width: 50px;
+}
+
+.my-code{
+	display: block;
+	padding: 3px 3px 2px;
+	font-size: 14px;
+	line-height: 20px;
+	width: 100%;
+	background-color: #333;
+	font-family: arial;
+	color: #f7f7f7;
+	font-weight: bold;
+}
+
 .contact-info .icon{
     width: 30px;
     margin: 0;
     margin-left: 25px;
     padding: 0;
 }
+
 .contact-sub-info{
     text-align: right;
-}
-.sub-header{
-}
-
-.main-skills li{
-    list-style-type: square;
 }
 
 footer{
